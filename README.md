@@ -6,6 +6,29 @@
 
 Description: This is an example project built with Laravel v11, Tailwind, and Livewire, featuring reactive pages for managing products and their categories.
 
+Structure of Created and Modified Files:
+
+├── app
+│   ├── Livewire
+│   │   ├── Categories.php       # Livewire controller to manage category logic.
+│   │   ├── ProductList.php      # Livewire controller to manage product listing.
+│   │   └── Products.php         # Livewire controller to manage products.
+│   ├── Models
+│   │   ├── Category.php         # Model representing a category in the database.
+│   │   └── Product.php          # Model representing a product in the database.
+├── resources
+│   ├── category.blade.php       # Blade view to display a single category.
+│   ├── dashboard.blade.php      # Blade view for the admin dashboard.
+│   ├── product.blade.php        # Blade view to display a single product.
+│   ├── view
+│   │   └── livewire
+│   │       ├── layout
+│   │       │   └── navigation.blade.php  # Blade view for the site navigation layout.
+│   │       ├── categories.blade.php      # Livewire view to display categories.
+│   │       ├── product-list.blade.php    # Livewire view to display product list.
+│   │       └── products.blade.php        # Livewire view to display products.
+
+
 ## Tailwind Components Used
 
 ### Popup: The popup was designed to create and update products and categories.
