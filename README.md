@@ -6,17 +6,17 @@
 
 Description: This is an example project built with Laravel v11, Tailwind, and Livewire, featuring reactive pages for managing products and their categories.
 
-##Tailwind Components Used
+## Tailwind Components Used
 
-###Popup: The popup was designed to create and update products and categories.
+### Popup: The popup was designed to create and update products and categories.
 ![App Screenshot](public/images/popup.png)
 
 
-###tailwind-css-tables: The table is used to show the categories.
+### tailwind-css-tables: The table is used to show the categories.
 ![App Screenshot](public/images/table1.png)
 
 
-###invoice-table-1: The table is used to show the products.
+### invoice-table-1: The table is used to show the products.
 ![App Screenshot](public/images/table2.png)
 
 
