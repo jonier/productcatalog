@@ -1,4 +1,4 @@
-# App Ecommerce
+# PRODUCT CATALOG
 
 // ...existing code...
 
