@@ -6,6 +6,8 @@
 
 Description: This is an example project built with Laravel v11, Tailwind, and Livewire, featuring reactive pages for managing products and their categories.
 
+![App Screenshot](public/images/popup.png)
+
 1. Clone the repository:
    ```sh
    git clone https://github.com/jonier/app-ecommerce.git
