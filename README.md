@@ -26,9 +26,9 @@ Structure of Created and Modified Files:
 │   │   └── livewire
 │   │       ├── layout
 │   │       │   └── navigation.blade.php  # Blade view for the site navigation layout.
-│   │       ├── categories.blade.php      # Livewire view to display categories.
+│   │       ├── categories.blade.php      # Livewire view to create and update categories.
 │   │       ├── product-list.blade.php    # Livewire view to display product list.
-│   │       └── products.blade.php        # Livewire view to display products.
+│   │       └── products.blade.php        # Livewire view to create and update products.
 
 
    ```
