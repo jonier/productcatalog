@@ -20,9 +20,9 @@ Structure of Created and Modified Files:
 │   │   └── Product.php          # Model representing a product in the database.
 ├── resources
 │   ├── view
-│   │   ├── category.blade.php       # Blade view to display a single category.
-│   │   ├── dashboard.blade.php      # Blade view for the admin dashboard.
-│   │   ├── product.blade.php        # Blade view to display a single product.
+│   │   ├── category.blade.php       # Blade view to create and update categories.
+│   │   ├── dashboard.blade.php      # Blade view that displays a list of products.
+│   │   ├── product.blade.php        # Blade view to create and update products.
 │   │   └── livewire
 │   │       ├── layout
 │   │       │   └── navigation.blade.php  # Blade view for the site navigation layout.
