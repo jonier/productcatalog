@@ -22,12 +22,12 @@ Description: This is an example project built with Laravel v11, Tailwind, and Li
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/jonier/app-ecommerce.git
+   git clone https://github.com/jonier/productcatalog.git
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd app-ecommerce
+   cd productcatalog
    ```
 
 3. Install SQLite3. The application runs with SQLite3.
@@ -45,6 +45,7 @@ Description: This is an example project built with Laravel v11, Tailwind, and Li
 
 6. Open your browser and register a new user:
     [http://127.0.0.1:8000/register](http://127.0.0.1:8000/register)
+    
 
 7. Sign in to the app
     [http://127.0.0.1:8000/login](http://127.0.0.1:8000/login)
