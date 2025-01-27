@@ -4,6 +4,8 @@
 
 ## Installation Instructions
 
+Description: This is an example project built with Laravel v11, Tailwind, and Livewire, featuring reactive pages for managing products and their categories.
+
 1. Clone the repository:
    ```sh
    git clone https://github.com/jonier/app-ecommerce.git
@@ -17,20 +19,19 @@
 3. Install SQLite3. The application runs with SQLite3.
 
 
-4. Create a .env file based on the .env.example file.
-
-
-5. Run the migrations and seed the database:
+4. Run the migrations and seed the database:
    ```sh
    php artisan migrate:fresh --seed
    ```
 
-6. Start the development server:
+5. Start the development server:
    ```sh
    composer run dev & npm install
    ```
 
-7. Open your browser and register a new user:
+6. Open your browser and register a new user:
    [http://127.0.0.1:8000/register](http://127.0.0.1:8000/register)
+
+7. 
 
 // ...existing code...
