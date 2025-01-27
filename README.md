@@ -35,7 +35,6 @@ Description: This is an example project built with Laravel v11, Tailwind, and Li
    ```sh
    composer install & npm install
    ```
-   ```
 
 3. Install SQLite3. The application runs with SQLite3.
 
