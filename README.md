@@ -9,6 +9,7 @@ Description: This is an example project built with Laravel v11, Tailwind, and Li
 Structure of Created and Modified Files:
 
    ```sh
+
 ├── app
 │   ├── Livewire
 │   │   ├── Categories.php       # Livewire controller to manage category logic.
@@ -18,10 +19,10 @@ Structure of Created and Modified Files:
 │   │   ├── Category.php         # Model representing a category in the database.
 │   │   └── Product.php          # Model representing a product in the database.
 ├── resources
-│   ├── category.blade.php       # Blade view to display a single category.
-│   ├── dashboard.blade.php      # Blade view for the admin dashboard.
-│   ├── product.blade.php        # Blade view to display a single product.
 │   ├── view
+│   │   ├── category.blade.php       # Blade view to display a single category.
+│   │   ├── dashboard.blade.php      # Blade view for the admin dashboard.
+│   │   ├── product.blade.php        # Blade view to display a single product.
 │   │   └── livewire
 │   │       ├── layout
 │   │       │   └── navigation.blade.php  # Blade view for the site navigation layout.
@@ -29,8 +30,8 @@ Structure of Created and Modified Files:
 │   │       ├── product-list.blade.php    # Livewire view to display product list.
 │   │       └── products.blade.php        # Livewire view to display products.
 
-   ```
 
+   ```
 
 ## Tailwind Components Used
 
