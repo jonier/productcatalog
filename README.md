@@ -29,6 +29,13 @@ Description: This is an example project built with Laravel v11, Tailwind, and Li
    ```sh
    cd productcatalog
    ```
+   ```
+
+3. Start the development server:
+   ```sh
+   composer install & npm install
+   ```
+   ```
 
 3. Install SQLite3. The application runs with SQLite3.
 
@@ -40,7 +47,7 @@ Description: This is an example project built with Laravel v11, Tailwind, and Li
 
 5. Start the development server:
    ```sh
-   composer run dev & npm install
+   composer run dev
    ```
 
 6. Open your browser and register a new user:
