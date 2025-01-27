@@ -29,7 +29,6 @@ Description: This is an example project built with Laravel v11, Tailwind, and Li
    ```sh
    cd productcatalog
    ```
-   ```
 
 3. Start the development server:
    ```sh
